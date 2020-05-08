@@ -1,0 +1,48 @@
+-450, 4715  Underwater Temple   // looted
+-230, 2200  Ocean Monu  // looted
+-200, 5900  Swamp base
+-700, 780   Swamp
+175, 1273 bee hive
+1044, y 32, 1868 Strong hold
+
+Goals
+    Woodland mansion
+    sus stew
+    Ender
+    Blue ice monorail
+    Wither
+
+Challenges
+    West Sky Retrieve Veritas
+    重见天日，超平坦 奖励箱 村庄 天花板！
+
+Mini game
+    Daniel's Funplex on Ice
+        Go carting
+        Cure and Shield
+        Creeper Circle.
+            Starts with slowness. P1 makes creepers stop. P2 makes potion of speed. P1 is Math!!!
+
+Trade
+1	Novice	Available from start
+2	Apprentice	10
+3	Journeyman	60
+4	Expert	160
+5	Master	310
+
+Armorer 
+    bell at 150 coal
+    Enchanted diamond armor at 20 diamond
+
+Butcher
+    Sell 14 raw chicken x 2
+
+Cartographer
+    Sell 24 paper x 6
+    woodland explorer map at 23 stacks of paper
+
+Farmer
+    sell 6 pumpkin x 5  at 260 potatoes
+    sell 16 egg x 5 at 3 stacks of pumpkins
+
+Cartographer, then Farmer, then Armorer. 
